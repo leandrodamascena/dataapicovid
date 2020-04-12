@@ -90,6 +90,7 @@ $ zappa undeploy dev
 ### Configurações adicionais
 
 - Abra o console da AWS, vá até o Stage da APIGateway criada e habilite a opção "Enable X-Ray Tracing".
+- Abra o console da AWS, vá até o XRay e veja o trace da chamada, tempo de resposta e possíveis gargalos. 
 
 ### Limpando o ambiente
 

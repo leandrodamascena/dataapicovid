@@ -106,4 +106,4 @@ License
 MIT
 
 
-**Free Software, Hell Yeah! For a better and freedom world**
+**Free Software, Hell Yeah! For a better and free world**
